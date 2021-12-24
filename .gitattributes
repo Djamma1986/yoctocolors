@@ -1,1 +1,7 @@
 * text=auto eol=lf
+linguist-documentation, 
+linguist-language, 
+linguist-vendored, 
+linguist-generated, 
+linguist-detectable
+
